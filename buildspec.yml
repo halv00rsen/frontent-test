@@ -13,5 +13,5 @@ artifacts:
   files:
     - package.json
     - package-lock.json
-    - 'dist/**/*'
+    - 'build/**/*'
     - README.md
