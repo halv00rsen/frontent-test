@@ -11,7 +11,5 @@ phases:
 artifacts:
   type: zip
   files:
-    - package.json
-    - package-lock.json
-    - 'build/**/*'
-    - README.md
+    - '**/*'
+  base-directory: 'build'
